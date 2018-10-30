@@ -1,0 +1,1 @@
+# Lista6_Cont_inversions_Igor_Veludo_Joao_Mota
